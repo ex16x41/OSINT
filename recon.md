@@ -37,3 +37,66 @@
 | Type | Desc |
 |:---:|:---:|
 | site:target.com ext:doc OR ext:docx OR ext:odt OR ext:pdf OR ext:rtf OR ext:sxw OR ext:psw OR ext:ppt OR ext:pptx OR ext:pps OR ext:csv  | - |
+
+
+# Google Drive / Docs
+| Type | Desc |
+|:---:|:---:|
+| intitle:- Google Docs ‘keyword’ | index public docs |
+| allinurl: drive.google.com/open?id= | index drive |
+| site:https://docs.google.com/forms responses + names| obtain mass email |
+
+
+# Dropbox
+| Type | Desc |
+|:---:|:---:|
+| intitle:index.of.dropbox  (e.g. intitle:index.of.dropbox allintext:leak) | index dropbox |
+| site:dl.dropbox.com | index dropbox links |
+
+
+# start.me
+| Type | Desc |
+|:---:|:---:|
+| start.me | site:*.start.me keyword | leak | sources | OSINT.. etc  |
+
+
+# Potential exposed leaked data / comapny exposed portals shares.etc (project management frameworks)
+
+
+# Trello - index boards / public / users / files / info
+| Type | Desc |
+|:---:|:---:|
+| trello | site:trello.com inurl:/b/ intext:OSINT  |
+
+
+# Taiga.io - index boards / public / users / files / projects
+| Type | Desc |
+|:---:|:---:|
+| taiga | site:taiga.io inurl:project keyword  |
+
+
+# GitLab - like github, index public repos with keys or sensitive data
+| Type | Desc |
+|:---:|:---:|
+| in gitlab | site:gitlab.com keyword intext:details  |
+| gitlab.*.* | site:gitlab.*.* keyword -site:gitlab.com  |
+
+
+# Bitbucket - like github, index public repos with keys or sensitive data
+| Type | Desc |
+|:---:|:---:|
+| bitbucket | site:bitbucket.*.* keyword |
+
+
+# Loomio.org - index boards / public / users / teams / files / projects
+| Type | Desc |
+|:---:|:---:|
+| loomio | site:loomio.org -inurl:/d/ inurl:/g/ keyword |
+
+
+# Jira - comapny portals using jira with option to register and view internal data
+| Type | Desc |
+|:---:|:---:|
+| jira | site:jira.*.* intext:Sign up  |
+can be costumized for specific comapny name like jira.target.com or just subdomain enum
+create acc >  view available data / files / users / etc.
