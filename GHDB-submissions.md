@@ -1,4 +1,4 @@
-# my GHDB submissions for stuff 
+# my GHDB submissions 
 
 # 1 
 symfony exposed environemnt settings and credentials 
