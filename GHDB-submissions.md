@@ -14,3 +14,6 @@ find misconfigured and open bamboo instances
 https://www.exploit-db.com/ghdb/5739
 
 >> site:bamboo.*.* ext:action build OR projectKey
+
+
+-- addhere
