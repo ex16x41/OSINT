@@ -102,17 +102,3 @@ can be costumized for specific comapny name like jira.target.com or just subdoma
 create acc >  view available data / files / users / etc.
 
 
-
-# test for open redirect vulnerabilities 
-| Type | Desc |
-|:---:|:---:|
-| inurl:redirect= | - |
-| inurl:rdir=  | - |
-| inurl:to=  | FP |
-| inurl:destination= | - |
-| inurl:ReturnURL=  | - |
-| inurl:next= | - |
-redirect_uri=
-/allowcookies=
-
-* use with - inurl:?[param]= -account -login -support -enroll -register -questions -logon -help -signin -log -password 
