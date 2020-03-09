@@ -114,3 +114,5 @@ create acc >  view available data / files / users / etc.
 | inurl:next= | - |
 redirect_uri=
 /allowcookies=
+
+* use with - inurl:?[param]= -account -login -support -enroll -register -questions -logon -help -signin -log -password 
