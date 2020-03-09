@@ -18,7 +18,3 @@ https://www.exploit-db.com/ghdb/5739
 
 -- addhere
 
-
-# my posts 
-
-https://pentestmag.com/pentest-notes-approaching-a-target/ 
