@@ -16,8 +16,37 @@
 | inurl:redirect?https | - |
 | inurl:redirect?http | - |
 | inurl:url=http | - |
-| inurl:link=http| - |
-| inurl:link=https| - |
+| inurl:?goto= | - |
+| inurl:/?node= | - |
+| inurl:/setLanguage.php?return= | - |
+| inurl:?url= | - |
+| inurl:?sUrl= | - |
+| inurl:?from= | - |
+| inurl:?home= | - |
+| inurl:?redir= | - |
+| inurl:?link= | - |
+| inurl:?r= | - |
+| inurl:?resource= | - |
+| inurl:?return= | - |
+| inurl:?referer= | - |
+| inurl:?ref= | - |
+| inurl:?retour= | - |
+| inurl:?back= | - |
+| inurl:?file= | - |
+| inurl:?rb= | - |
+| inurl:?end_display= | - |
+| inurl:?urlact= | - |
+| inurl:?redirectBack= | - |
+| inurl:/search?q= | - |
+| inurl:/r.php?u= | - |
+| inurl:?page= | - |
+| inurl:?l= | - |
+| inurl:?loc= | - |
+| inurl:?path= | - |
+| inurl:?r2= | - |
+
+
+
 
 # TIP 
 * do search excluding words that can include fp and links that include login because often will require login to redirect
