@@ -45,7 +45,7 @@
 | inurl:?path= | - |
 | inurl:?r2= | - |
 redirect.html?open&url=
-
+redirects/redir.cgi?full_url=
 
 
 # TIP 
