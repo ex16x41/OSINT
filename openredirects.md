@@ -44,7 +44,7 @@
 | inurl:?loc= | - |
 | inurl:?path= | - |
 | inurl:?r2= | - |
-
+redirect.html?open&url=
 
 
 
