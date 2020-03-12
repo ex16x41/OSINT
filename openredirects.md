@@ -1,4 +1,4 @@
-# test for open redirect vulnerabilities (google dorks) 
+# test for open redirect vulns (google dorks) 
 
 
 | dork | injection param |
