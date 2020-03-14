@@ -48,10 +48,11 @@ redirect.html?open&url=
 redirects/redir.cgi?full_url=
 
 
-# TIP 
-* do search excluding words that can include fp and links that include login because often will require login to redirect
+# note
+* run your search excluding words that can include false positives and links which include login portals because often will require authentication to redirect
+
 use something like: 
 
-Example: 
-
 inurl:logout?returnUrl= -checkout -tickets -user -docs -kr  -account  -signup -signin -login -support -enroll -register -questions -logon -help -signin -log -password
+
+a good example would be checkout, logout, signout, allowcookies, etc. 
