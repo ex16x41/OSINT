@@ -12,7 +12,6 @@ filename:.htpasswd
 filename:.env DB_USERNAME NOT homestead
 filename:.env MAIL_HOST=smtp.gmail.com
 filename:.git-credentials
-PT_TOKEN language:bash
 filename:.bashrc password
 filename:.bashrc mailchimp
 filename:.bash_profile aws
@@ -20,8 +19,6 @@ rds.amazonaws.com password
 extension:json api.forecast.io
 extension:json mongolab.com
 extension:yaml mongolab.com
-jsforce extension:js conn.login
-SF_USERNAME salesforce
 filename:.tugboat NOT _tugboat
 HEROKU_API_KEY language:shell
 HEROKU_API_KEY language:json
@@ -94,4 +91,4 @@ e.g.
 search by DB name - modified 
 
 
-
+-add here 
