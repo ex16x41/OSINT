@@ -79,5 +79,19 @@ filename:.ftpconfig
 filename:.remote-sync.json
 filename:sftp.json path:.vscode
 filename:WebServers.xml
+password
+dbpassword
+dbuser
+access_key
+secret_access_key
+bucket_password
+redis_password
+root_password
+
+search within target repo or general target keyword 
+e.g. 
+
+search by DB name - modified 
+
 
 
