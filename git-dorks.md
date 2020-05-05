@@ -1,5 +1,7 @@
 # git dorks 
 
+generic keywords 
+
 password
 dbpassword
 dbuser
@@ -9,12 +11,16 @@ bucket_password
 redis_password
 root_password
 
+search process 
+
 search within target repo or general target keyword 
 e.g. 
 
 search by DB name - modified 
 
+or 
 
+site:github - best op > can automate this 
 
  Dork                                           | Description
 ------------------------------------------------|--------------------------------------------------------------------------
