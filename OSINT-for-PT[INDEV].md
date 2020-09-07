@@ -1,4 +1,4 @@
-# targeted recon using dorks
+# targeted recon using dorks [only]
 
 
 # directory listing test
@@ -58,6 +58,11 @@
 | Type | Desc |
 |:---:|:---:|
 | start.me | site:*.start.me keyword | leak | sources | OSINT.. etc  |
+
+
+
+
+
 
 
 # Potential exposed leaked data / comapny exposed portals shares.etc (project management frameworks)
